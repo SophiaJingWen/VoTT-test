@@ -1,0 +1,19 @@
+{
+    "test": {
+        "output": {
+            "resultFilePath": "C:/Users/sophiawen/Desktop/test_pj-result"
+        }
+    },
+    "case": {
+        "type": "build",
+        "option": {
+            "outputRoot": "C:/Users/sophiawen/Desktop/test_pj",
+            "pattern": "case${index}",
+            "optionRoot": "C:/Users/sophiawen/Desktop/VoTT-test/data/options",
+            "optionFilenames": [
+                "empty"
+            
+            ]
+        }
+    }
+}

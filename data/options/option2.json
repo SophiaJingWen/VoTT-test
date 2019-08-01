@@ -1,0 +1,7 @@
+{
+    "people":["p1"],
+    "action":["run","walk"],
+    "k":2,
+    "weight":[0.5,0.5],
+    "max":20
+}

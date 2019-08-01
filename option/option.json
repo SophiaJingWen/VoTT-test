@@ -1,0 +1,16 @@
+{
+    "test": {
+        "output": {
+            "resultFilePath": "C:/Users/sophiawen/Desktop/test_pj-result"
+        }
+    },
+    "case": {
+        "type": "load",
+        "option": {
+            "root": "C:/Users/sophiawen/Desktop/test_pj",
+            "names": [
+                "case0","case1"
+            ]
+        }
+    }
+}
